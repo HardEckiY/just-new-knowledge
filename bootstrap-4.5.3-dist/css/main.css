@@ -54,16 +54,16 @@ hr {
   padding-bottom: 15px;
 }
 
-.navbar-invers {
+.navbar-inverse {
   background-color: #2d2d2d;
   border-color: #2d2d2d;
 }
 
-.navbar-invers .navbar-nav > .acttive > a {
+.navbar-inverse .navbar-nav > .acttive > a {
   background-color: #ff7878;
 }
 
-.navbar-invers .navbar-brand {
+.navbar-inverse .navbar-brand {
   color: #999;
   font-weight: bolder;
   font-size: 22px;
